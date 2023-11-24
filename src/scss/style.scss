@@ -1,0 +1,88 @@
+.Mobile {
+  text-align: center;
+  background:#e5eaf1;
+  font-size:15px;
+  line-height:1.5;
+}
+.Mobile-header{
+  	background:#fff;
+	padding:30px;
+}
+.Mobile-title{
+	display:flex;
+	width:100%;
+	flex-wrap:wrap;
+	align-items: center;
+	justify-content: space-between;
+}
+.Heading{
+	font-size:30px;
+	margin:0px;
+}
+.Mobile-header img{
+	height:30px;
+}
+.Common-widget{
+	padding:25px;
+	background:#fff;
+	border-radius:10px;
+	box-shadow:0px 1px 10px 1px rgba(0,0,0,0.1);
+}
+.Common-padding{
+	padding:30px 30px 0px 30px;
+}
+.Wallet-meta{
+	display:flex;
+	width:100%;
+	flex-wrap:wrap;
+	align-items: center;
+	justify-content: space-between;
+}
+.Currency span{
+	display:inline-block;
+	vertical-align:middle;
+	margin-right:10px;
+}
+.Currency{
+	font-weight:700;
+}
+.Currency-field{
+	color:#aeb8c4;
+}
+.Wallet-price{
+	color:#4c5968;
+	font-size:34px;
+	text-align:left;
+	margin-bottom:15px;
+}
+.USD-price{
+	font-size:21px;
+	color:#aeb8c4;
+}
+.status{
+	background:#ed215d;
+	padding: 7px 15px;
+    border-radius: 20px;
+    color: #fff;
+    line-height: 15px;
+}
+.Wallet-addon{
+	margin-top:15px;
+}
+.Wallet-action{
+	display:flex;
+	flex-wrap:wrap;
+	align-items: center;
+	box-sizing:border-box;
+	margin:0 -15px;
+}
+.Wallet-action-item{
+	width:50%;
+	padding:0 15px;
+	box-sizing:border-box;
+}
+.action-name a{
+	font-weight:700;
+	color:#000;
+	text-decoration:none;
+}
